@@ -1,5 +1,5 @@
 # Infix Readings for Lisp
-A DrRacket plugin to provide infix readability to prefix syntax
+A DrRacket plugin to provide infix readability to prefix syntax.
 
 # Work In Progress
 
@@ -61,3 +61,7 @@ Same inputs but infix readings only on `-`
 ```racket
 (⇨ (+ 2 2) - (* 3 4))
 ```
+
+An animated mockup showing the inputs `(> X Y)`
+
+![xymockup](https://i.imgur.com/fp33FIf.gif)
