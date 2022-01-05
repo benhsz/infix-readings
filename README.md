@@ -58,4 +58,6 @@ Another example with infix readings on all operators
 
 Same inputs but infix readings only on `-`
 
+```racket
 (⇨ (+ 2 2) - (* 3 4))
+```
