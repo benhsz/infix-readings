@@ -1,6 +1,8 @@
 # Infix Readings for Lisp
+
 A DrRacket plugin to provide infix readability to prefix syntax.
 
+![xymockup](https://i.imgur.com/fp33FIf.gif)
 # Work In Progress
 
 No working implemention yet.
@@ -11,7 +13,7 @@ If the programmer enters a specific function, such as `>` or `-`, the editor swa
 
 The special character shown in place of the actual operator can be thought of the same function, for example `>`, that has gained an 'infix visualization' function, which produces an infix reading.
 
-Which functions are able to produce an infix reading depends on the user's preferences.
+Which functions produce an infix reading depends on the user's preferences.
 
 # Examples
 
@@ -62,6 +64,6 @@ Same inputs but infix readings only on `-`
 (⇨ (+ 2 2) - (* 3 4))
 ```
 
-An animated mockup showing the inputs `(> X Y)`
+An animated mockup with the inputs `(> X Y)`
 
 ![xymockup](https://i.imgur.com/fp33FIf.gif)
