@@ -9,7 +9,7 @@ No working implemention yet.
 
 If the programmer enters a specific function, such as `>` or `-`, the editor swaps its appearance with a special character. The editor may also visualize extra space between the operands in order to render the extra operators between the operands.
 
-The special character shown in place of the actual operator can be thought of as an 'infix visualization' function, which produces an infix reading.
+The special character shown in place of the actual operator can be thought of the same function, for example `>`, that has gained an 'infix visualization' function, which produces an infix reading.
 
 On which functions this occurs can depend on the user's preferences.
 
