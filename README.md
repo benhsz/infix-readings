@@ -11,7 +11,7 @@ If the programmer enters a specific function, such as `>` or `-`, the editor swa
 
 The special character shown in place of the actual operator can be thought of the same function, for example `>`, that has gained an 'infix visualization' function, which produces an infix reading.
 
-On which functions this occurs can depend on the user's preferences.
+Which functions are able to produce an infix reading depends on the user's preferences.
 
 # Examples
 
