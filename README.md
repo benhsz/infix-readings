@@ -45,3 +45,17 @@ Result:
 ```racket
 (⇨ 9 > 8 > 7 > 6)
 ````
+
+Another example with infix readings on all operators
+
+```racket
+(- (+ 2 2) (* 3 4))
+```
+
+```racket
+(⇨ (⇨ 2 + 2) - (⇨ 3 * 4))
+```
+
+Same inputs but infix readings only on `-`
+
+(⇨ (+ 2 2) - (* 3 4))
